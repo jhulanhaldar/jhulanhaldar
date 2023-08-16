@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhulan Haldar</h1>
 <h3 align="center">A passionate data analyst from India.</h3>
 
-- 👨‍💻 All of my projects are available at [jhulanhaldar.github.io](jhulanhaldar.github.io)
+- 👨‍💻 All of my projects are available at [jhulanhaldar.github.io](https://jhulanhaldar.github.io)
 
 - 📫 How to reach me **jhulanhalder096@gmail.com**
 
